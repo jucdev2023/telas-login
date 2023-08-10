@@ -1,0 +1,10 @@
+.main-login {
+  width: 100vw;
+  height: 100vh;
+  background-color: cadetblue;
+}
+.main-login .left {
+  width: 50%;
+  height: 100%;
+  background-color: white;
+}/*# sourceMappingURL=style.css.map */
